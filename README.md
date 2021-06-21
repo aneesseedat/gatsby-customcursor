@@ -20,7 +20,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
     ```shell
     # create a new Gatsby site with this boilerplate using the following
-    gatsby new my-default-starter https://git.daimler.com/NAIDSHA/gatsby-customcursorbp
+    gatsby new my-default-starter https://github.com/Tron9811/gatsby-customcursor
     ```
 
 1.  **Start developing.**
